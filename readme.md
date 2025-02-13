@@ -39,7 +39,7 @@ To run the project locally, follow the steps below:
 2. Navigate to the project directory:
 
    ```
-   cd Streamlit-indian-startup-analysis
+   cd indian-startup-analysis
    ```
 
 3. Install the required dependencies using pip:
